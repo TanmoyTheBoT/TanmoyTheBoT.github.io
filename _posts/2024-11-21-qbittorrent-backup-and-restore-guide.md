@@ -8,7 +8,7 @@ image:
   path: "/assets/images/qBittorrent.webp"
   alt: qBittorrent Backup and Restore Guide
 ---
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftanmoy.xyz%2Fposts%2Fqbittorrent-backup-and-restore-guide%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://tanmoy.xyz/posts/qbittorrent-backup-and-restore-guide) -->
+
 
 Follow this quick guide to back up and restore your qBittorrent data effortlessly.  
 

@@ -9,49 +9,49 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Dhaka
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: TanmoyTheBoT # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Infinite Possibilities # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  TanmoyTheBoT - Exploring tech innovations, coding insights, entertainment, encoding archives, setups, and ethical hacking.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://tanmoy.xyz"
 
 github:
-  username: github_username # change to your GitHub username
+  username: TanmoyTheBoT # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: TanmoyTheBoT # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: TanmoyTheBoT
+  email: admin@tanmoy.xyz # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/TanmoyTheBoT # change to your Twitter homepage
+    - https://github.com/TanmoyTheBoT # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
+  google: w7NZDlmBbnhdm9VoD33zm_-H_6VQNPoVsBlgDaY7ywo #i_0oDyllGMDk4ScuS1zRhLiVj9T1PpYKvOIiDmSrMDE # fill in your Google verification code <meta name="google-site-verification" content="w7NZDlmBbnhdm9VoD33zm_-H_6VQNPoVsBlgDaY7ywo" />
+  bing: 29CA3FB86D57C782D285492D55214CCA # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
-  yandex: # fill in your Yandex verification code
+  yandex: 43fadfec4eec8ee1 # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
-  facebook: # fill in your Facebook verification code
+  facebook: rdww78gmrb0fh1hn8zfkbn5spvsdc8 # fill in your Facebook verification code
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -59,9 +59,9 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-3TQJGWJM34 # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: tanmoy # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -69,13 +69,13 @@ analytics:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
   cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
+    id: 5dc6fd8d01b049f797f36b62572fa2ca # fill in your Cloudflare Web Analytics token
   fathom:
     id: # fill in your Fathom Site ID
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
@@ -98,18 +98,18 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/images/avatar.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: "/assets/images/avatar.jpg" # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: giscus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -119,10 +119,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: TanmoyTheBoT/giscus # <gh-username>/<repo>
+    repo_id: R_kgDOM7NoLw
+    category: General
+    category_id: DIC_kwDOM7NoL84CjC1y
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'

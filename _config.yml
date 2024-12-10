@@ -193,6 +193,17 @@ defaults:
       layout: page
       permalink: /:title/
 
+  - scope:
+      path: "test.html"
+    values:
+      sitemap: false
+
+  - scope:
+      path: "googlebb409d51c02fd33d.html"
+    values:
+      sitemap: false
+
+
 sass:
   style: compressed
 

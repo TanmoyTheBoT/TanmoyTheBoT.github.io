@@ -2,7 +2,7 @@
 title: qBittorrent Backup and Restore Guide  
 date: 2024-11-21 18:00:00 +600  
 categories: [Tutorials]  
-tags: [qbittorrent, backup, restore, qbittorrent backup and restore guide, tanmoythebot]  # TAG names should always be lowercase  
+tags: [qbittorrent, backup, restore,  tanmoythebot]  # TAG names should always be lowercase  
 author: tanmoythebot  
 image:
   path: "/assets/images/qBittorrent.webp"

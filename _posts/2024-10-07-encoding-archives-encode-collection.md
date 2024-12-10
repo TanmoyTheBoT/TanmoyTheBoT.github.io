@@ -2,7 +2,7 @@
 title: Encoding Archives - Encode Collection 
 date: 2024-10-07 9:15:00 +600
 categories: [Encoding Archives, Encode Collection]
-tags: [tanmoy,encode ,remux,bluray,tanmoy remux,tanmoy bluray,tanmoy movies release group,tanmoy x264,tanmoy encoder,encoding archives,encode showcase, tanmoythebot]     # TAG names should always be lowercase
+tags: [encode showcase, tanmoy, tanmoythebot]     # TAG names should always be lowercase
 author: tanmoythebot
 description: A collection of high-quality Web-DL and BluRay encodes, including AVC and x264 video formats, with DDP audio.
 image:

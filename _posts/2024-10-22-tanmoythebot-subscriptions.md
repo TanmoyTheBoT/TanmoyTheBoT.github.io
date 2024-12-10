@@ -1,9 +1,11 @@
 ---
-title: "TanmoyTheBoT Subscriptions - Currently Out of Stock !"
+title: "TanmoyTheBoT Subscriptions"
 date: 2024-10-22 00:30:00 +600
 categories: [Subscriptions, Streaming]
-tags: [netflix, crunchyroll, amazon prime, streaming, tanmoythebot]  # TAG names should always be lowercase
+tags: [netflix, crunchyroll, primevideo, streaming, tanmoy, tanmoythebot]  # TAG names should always be lowercase
 # description: TanmoyTheBoT Subscriptions – Premium Access, Affordable Prices
+pin: false
+published: false
 image:
   path: "/assets/images/crunchyroll.jpg"
   alt: TanmoyTheBoT Subscriptions
